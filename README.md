@@ -1,13 +1,13 @@
-##CampusEquipment1
+## CampusEquipment1
 Campus Equipment Reservation Web API Assignment
 
-##Campus Equipment Reservation Web API
+## Campus Equipment Reservation Web API
 
-##Overview
+## Overview
 
 A Web API developed using ASP.NET Core, Entity Framework Core, and SQLite that allows users to view equipment and manage reservations.
 
-##Technologies
+## Technologies
 
 - ASP.NET Core Web API
 - C#
@@ -15,7 +15,7 @@ A Web API developed using ASP.NET Core, Entity Framework Core, and SQLite that a
 - SQLite
 - Swagger
 
-##Features
+## Features
 
 - View Equipment
 - Create Reservation
