@@ -1,4 +1,4 @@
-## CampusEquipment1
+** CampusEquipment1
 Campus Equipment Reservation Web API Assignment
 
 ##Campus Equipment Reservation Web API
